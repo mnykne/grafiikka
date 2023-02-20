@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30.969938mm"
+   height="47.625008mm"
+   viewBox="0 0 30.969938 47.62501"
+   version="1.1"
+   id="svg4365"
+   sodipodi:docname="conifer-cone-simplified.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4367"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="11.62523"
+     inkscape:cx="12.257822"
+     inkscape:cy="16.386773"
+     inkscape:window-width="1136"
+     inkscape:window-height="1216"
+     inkscape:window-x="1328"
+     inkscape:window-y="128"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4362" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-72.546766,-132.39021)">
+    <path
+       id="path2876"
+       style="fill:#3d495e;fill-opacity:1;stroke:none;stroke-width:1.0782"
+       d="m 87.939362,132.3942 a 1.0781876,1.0781876 0 0 0 -0.66965,0.31174 l -3.866332,3.86633 a 1.3553484,1.3553484 0 0 0 -0.189487,1.67628 l 4.247465,6.79764 a 0.67387105,0.67387105 0 0 0 1.143506,0 l 4.247472,-6.79764 a 1.3553386,1.3553386 0 0 0 -0.191533,-1.67628 l -3.866328,-3.86633 a 1.0781876,1.0781876 0 0 0 -0.854986,-0.31174 z m -9.83009,10.78827 a 0.24759608,0.24759608 0 0 0 -0.200085,0.39812 h -0.0021 l 9.467858,12.30655 a 0.82937711,0.82937711 0 0 0 1.314043,0 l 9.467857,-12.30655 a 0.24759587,0.24759587 0 0 0 -0.307254,-0.37286 l -8.852939,4.42649 a 2.1563793,2.1563793 0 0 1 -1.928968,0 l -8.852953,-4.42649 a 0.24759608,0.24759608 0 0 0 -0.105137,-0.0245 z M 103.26569,153.838 a 0.2142651,0.2142651 0 0 0 -0.0823,0.0122 l -14.128096,4.70865 a 3.2345914,3.2345914 0 0 1 -2.044779,0 L 72.88244,153.8502 a 0.2142651,0.2142651 0 0 0 -0.208643,0.3643 l 14.542933,12.60558 a 1.2440685,1.2440685 0 0 0 1.629942,0 l 14.542898,-12.60555 a 0.2142651,0.2142651 0 0 0 -0.12429,-0.3749 z m 0.0122,10.77983 a 0.25452611,0.25452611 0 0 0 -0.0945,0.0122 l -14.128092,4.70868 a 3.2345669,3.2345669 0 0 1 -2.044783,0 l -14.128052,-4.70864 a 0.25452611,0.25452611 0 0 0 -0.261211,0.42115 l 14.648235,14.64828 a 1.0781918,1.0781918 0 0 0 1.524642,0 l 14.648241,-14.64828 a 0.25452611,0.25452611 0 0 0 -0.16424,-0.43379 z"
+       inkscape:export-filename="logo.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
